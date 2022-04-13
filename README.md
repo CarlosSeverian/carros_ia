@@ -13,8 +13,12 @@
 
 ### Objetivo
 Construção de aplicação com a utilização do Framework Flutter, utilizando serviços de Machine Learning construidos em Python.
-
 - Serviços hospedados em https://www.pythonanywhere.com/
+- Serviços Disponíveis (json):
+  - Entregar tabela de marcas
+  - Gravação de novos consumos
+  - Treinar modelos preditivos
+  - Predição de Consumo
 
 #### Bibliotecas utilizadas:
  - jsonify
