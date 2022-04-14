@@ -4,7 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 class Sobre extends StatelessWidget {
   final String maua_img;
 
-  const Sobre({this.maua_img = "Pos_Maua.png", Key? key}) : super(key: key);
+  const Sobre({this.maua_img = "assets/Pos_Maua.png", Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
